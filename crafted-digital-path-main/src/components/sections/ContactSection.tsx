@@ -68,7 +68,7 @@ const ContactSection = () => {
                       asChild
                     >
                       <a
-                        href="/Jaya Surya Resume.pdf"
+                        href="/JayaSuryaPuralasetti.pdf"
                         target="_blank"
                         rel="noopener noreferrer"
                         aria-label="Download Resume"
